@@ -1,0 +1,292 @@
+[
+    {
+        "name" : "Waroeng Steak and Shake",
+        "site" : "https://www.malangculinary.com/waroeng-steak-and-shake",
+        "openDays" : "Senin - Minggu",
+        "openHours" : "12:00 - 21:00",
+        "rating" : "4.6",
+        "description" : "Waroeng Steak & Shake merupakan lokasi kuliner yang menyajikan varian menu steak sebagai sajian utamanya. Menggunakan kata waroeng, franchise nasional asal Yogyakarta ini menghadirkan variasi menu steak kekinian dengan harga terjangkau. Berbagai menu steak dihidangkan diatas hot plate dan menjadikannya ciri khas Waroeng Steak and Shake. Kini Waroeng Steak and Shake telah memiliki lebih dari 80 outlet yang tersebar di beberapa kota besar di Indonesia. ",
+        "location" : "Jl. Soekarno Hatta No. 14, Malang",
+        "primaryPhoto" : "https://www.malangculinary.com/upload/img_1615698796.jpg",
+        "gallery" : [
+            {
+                "menuName" : "Chicken Single Steak",
+                "imgUrl" : "https://cdn-2.tstatic.net/makassar/foto/bank/images/24112018_steak.jpg",
+                "price" : "Rp 17.273"
+            },
+            {
+                "menuName" : "Double Chicken Steak",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_16156987967.jpg",
+                "price" : "Rp 24.545"
+            },
+            {
+                "menuName" : "Kopi Susu Gula Aren",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_16156987969.jpg",
+                "price" : "Rp 19.091"
+            },
+            {
+                "menuName" : "Chicken Mushroom Steak",
+                "imgUrl" : "https://assets-pergikuliner.com/JLwpWA0q7-STY7rdyoE-qoRo0_M=/fit-in/758x598/smart/https://assets-pergikuliner.com/uploads/image/picture/1076285/picture-1537194741.jpg",
+                "price" : "Rp 24.545"
+            }
+        ]
+    },
+    {
+        "name" : "Holycow Steakhouse",
+        "site" : "https://www.malangculinary.com/holycow-steakhouse",
+        "openDays" : "Senin - Minggu",
+        "openHours" : "11:00 - 23:00",
+        "rating" : "4.7",
+        "description" : "Steakhouse by Chef Afit merupakan lokasi kuliner yang menyajikan berbagai jenis olahan steak sebagai sajian utamanya. Tersedia berbagai jenis daging steak yang kesemuanya merupakan daging premium impor dari Jepang, Australia, dan Amerika. Ketiga negara ini memang terkenal sebagai eksportir daging berkualitas di dunia. Jenis daging steak memiliki grade atau tingkatan kelas tersendiri, biasanya berdasarakan marbling atau biasa disebut marbled. Marbling atau marbled adalah guratan - guratan putih lemak yang tersebar pada daging. Semakin banyak mengandung marbling, semakin bagus kualitas dagingnya.",
+        "location" : "Jl. Raya Dieng No. 32, Malang",
+        "primaryPhoto" : "https://www.malangculinary.com/upload/img_15011298622.jpg",
+        "gallery" : [
+            {
+                "menuName" : "Wagyu Sirloin",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15011298623.jpg",
+                "price" : "Rp 320.000"
+            },
+            {
+                "menuName" : "Wagyu Rib Eye",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15011298624.jpg",
+                "price" : "Rp 315.000"
+            },
+            {
+                "menuName" : "Wagyu Tenderloin",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15011298623.jpg",
+                "price" : "Rp 375.000"
+            },
+            {
+                "menuName" : "Wagyu Petite",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15011298624.jpg",
+                "price" : "Rp 250.000"
+            }
+        ]
+    },
+    {
+        "name" : "Ikan Bakar 52",
+        "site" : "https://www.malangculinary.com/resto-52",
+        "openDays" : "Senin - Minggu",
+        "openHours" : "11:00 - 22:00",
+        "rating" : "4.5",
+        "description" : "Resto yang menyajikan aneka varian seafood sebagai sajian utamanya. Berdiri sejak 2008, lokasi kuliner ini berkonsep restoran keluarga. Terdiri dari 2 lantai, Resto 52 memiliki cafe di lantai atasnya. Dekorasi di lantai dua bernuansa semi outdoor dimana pengunjung dapat menikmati suasana kawasan Gajahmada Plaza dan Mlaang Plaza darisini. Beberapa menu yang paling populer dan banyak dipesan oleh pengunjung, antara lain Ikan Bakar Asam Manis, varian olahan ayam, dan varian olahan bebek.",
+        "location" : "Jl. K.H. Agus Salim No. 11, Malang",
+        "primaryPhoto" : "https://www.malangculinary.com/upload/img_15215118376.jpg",
+        "gallery" : [
+            {
+                "menuName" : "Paket Berlima",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15215118373.jpg",
+                "price" : "Rp 370.000"
+            },
+            {
+                "menuName" : "Gurami",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15215118379.jpg",
+                "price" : "Rp 37.500"
+            },
+            {
+                "menuName" : "Penyet Empal",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15215118377.jpg",
+                "price" : "Rp 25.000"
+            },
+            {
+                "menuName" : "Mujair",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15215118378.jpg",
+                "price" : "Rp 15.000"
+            }
+        ]
+    },
+    {
+        "name" : "Bebek Goreng H. Slamet",
+        "site" : "https://www.malangculinary.com/bebek-goreng-h-slamet",
+        "openDays" : "Senin - Minggu",
+        "openHours" : "11:00 - 22:00",
+        "rating" : "4.7",
+        "description" : "Bebek Goreng H. Slamet merupakan lokasi kuliner yang menyajikan aneka varian bebek goreng. Bebek Goreng H. Slamet adalah bebek goreng yang berasal dari Kartasura, Solo. Di kawasan Malang sendiri telah terdapat 4 cabang. Pengunjung bisa memilih daging bebek mulai dari paha hingga dada, apabila datang dengan rombongan bisa juga membeli satu ekor utuh bebek secara langsung. Bebek goreng disini sangat lembut karena dipresto hingga lunak sampai ke tulang - tulangnya. Ada empat cara pemasakan yang bisa dipilih pengunjung, yaitu Original, Remuk, Gongso, dan Sambal Ijo. Original itu digoreng garing saja, remuk itu seperti digeprak atau diuleg. Sementara gongso itu dilumuri cabe kemudian disiram minyak gorengan bebek. Sambal ijo bebek digoreng dan kemudian diberikan sambal ijo diatasnya. Harga bebek yang tertera disini belum termasuk nasi, jadi jangan lupa untuk memastikannya.",
+        "location" : "Jl. Ciliwung No. 47, Malang",
+        "primaryPhoto" : "https://www.malangculinary.com/upload/img_15120907531.jpg",
+        "gallery" : [
+            {
+                "menuName" : "Paha Bebek",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15120907532.jpg",
+                "price" : "Rp 23.000"
+            },
+            {
+                "menuName" : "1 Ekor Bebek",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15120907533.jpg",
+                "price" : "Rp 110.000"
+            },
+            {
+                "menuName" : "Dada Bebek",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15120907532.jpg",
+                "price" : "Rp 25.000"
+            }
+        ]
+    },
+    {
+        "name" : "Bakso President",
+        "site" : "https://www.malangculinary.com/bakso-president",
+        "openDays" : "Senin - Minggu",
+        "openHours" : "11:00 - 22:00",
+        "rating" : "4.8",
+        "description" : "Bakso President merupakan lokasi kuliner yang menyajikan varian menu bakso khas Mlaang sebagai sajian utamanya. Menjadi salah satu ikon bakso yang cukup dikenal tidak lain karena lokasi Bakso President ini yang terletak tepat di pinggir rel kereta api. Terdapat lebih dari 8 varian menu bakso, mulai dari Bakso Kecil, Bakso Besar, Bakso Goreng, Siomay Goreng, hingga jerohan. Untuk memudahkan pengunjung, tersedia beberapa paket bakso lengkap dengan isi yang variatif. Beberapa menu yang paling populer dan menjadi favorit pengunjung, antara lain Paket Campur Spesial, Paket Campur Komplit, dan Bakso Bakar.",
+        "location" : "Jl. Batanghari No. 5, Malang",
+        "primaryPhoto" : "https://www.malangculinary.com/upload/img_15897167614.jpg",
+        "gallery" : [
+            {
+                "menuName" : "Bakso Saja",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15897167616.jpg",
+                "price" : "Rp 15.000"
+            },
+            {
+                "menuName" : "Bakso Bakar",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15897167619.jpg",
+                "price" : "Rp 12.000"
+            },
+            {
+                "menuName" : "Urat Saja",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15897167616.jpg",
+                "price" : "Rp 15.000"
+            },
+            {
+                "menuName" : "Campur Hemat",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15897167618.jpg",
+                "price" : "Rp 12.000"
+            }
+        ]
+    },
+    {
+        "name" : "Burger Buto",
+        "site" : "https://www.malangculinary.com/kedai-27-burger-buto",
+        "openDays" : "Selasa - Minggu",
+        "openHours" : "11:30 - 21:00",
+        "rating" : "4.4",
+        "description" : "Burger Buto merupakan lokasi kuliner yang menyajikan varian burger sebagai sajian utamanya. Varian burger yang disajikan disini berbeda, terutama dari segi ukuran. Menggunakan nama Buto menjadi penanda burger yang disajikan disini memiliki ukuran ekstra besar tetapi dengan harga yang cukup hemat. Disini terdapat beberapa macam burger, seperti burger buto, burger buto cemet, burger buto long, burger buto keceng. Semua bahan dasar burger diproduksi sendiri mulai dari roti hingga isian patty nya. Burger buto adalah burger bundar dengan diameter mulai dari 17 cm - 25 cm. Burger buto cemet adalah burger dengan berbentuk  persegi yang dipress sehingga terlihat sedikit tipis. Burger buto long adalah burger yang bentuknya seperti hotdog dengan panjang 40 cm. Sementara itu, burger buto keceng adalah burger yang bentuknya seperti hotdog dengan panjang 60 cm.",
+        "location" : "Jl. Sarangan No. 27, Malang",
+        "primaryPhoto" : "https://www.malangculinary.com/upload/img_15004757982.jpg",
+        "gallery" : [
+            {
+                "menuName" : "Burger Buto Keju",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15004757982.jpg",
+                "price" : "Rp 13.500"
+            },
+            {
+                "menuName" : "Burger Buto Spesial",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15004757982.jpg",
+                "price" : "Rp 14.500"
+            },
+            {
+                "menuName" : "Burger Buto Cemet",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15004757982.jpg",
+                "price" : "Rp 18.000"
+            }
+        ]
+    },
+    {
+        "name" : "Warung Lesehan Yogyakarta",
+        "site" : "https://www.malangculinary.com/warung-lesehan-yogyakarta-01",
+        "openDays" : "Senin - Minggu",
+        "openHours" : "10:00 - 22:00",
+        "rating" : "4.9",
+        "description" : "Warung Lesehan Yogyakarta merupakan lokasi kuliner yang menyajikan aneka menu varian lalapan sebagai sajian utamanya. Warung Lesehan Yogyakarta yang berada di kawasan Dieng ini merupakan cabang kedua dari Warung Lesehan Yogyakarta yang telah beroperasional di kawasan Soekarno Hatta. Terdapat beberapa pilihan menu lalapan seperti ayam goreng, ayam penyet, bandeng, gurami, udang, hingga lele. Warung Lesehan Yogyakarta memiliki daya tampung yang cukup luas, lokasi kuliner ini sangat cocok apabila pengunjung datang beramai - ramai atau dalam jumlah rombongan. Pengunjung dapat memilih makan di meja atau secara lesehan. Lesehannya ada dua macam, leehan kecil dan besar. Untuk lesehan kecil muat hingga dua meja, sementara lesehan besar mampu menampung hingga 3 meja sekaligus. Apabila anda memilih untuk duduk di lesehan, anda akan menemukan daya tarik tersendiri karena anda dapat melihat langsung kolam ikan dibawah lesehan.",
+        "location" : "Jl. Raya Lembah Dieng Blok A1 No. 8, Malang",
+        "primaryPhoto" : "https://www.malangculinary.com/upload/img_15064971841.jpg",
+        "gallery" : [
+            {
+                "menuName" : "Masakan Gurami",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15064971854.jpg",
+                "price" : "Rp 47.500"
+            },
+            {
+                "menuName" : "Masakan Ayam",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15064971854.jpg",
+                "price" : "Rp 14.500"
+            },
+            {
+                "menuName" : "Udang",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15004757982.jpg",
+                "price" : "Rp 39.000"
+            },
+            {
+                "menuName" : "Cah Kangkung",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15064971853.jpg",
+                "price" : "Rp 10.000"
+            }
+        ]
+    },
+    {
+        "name" : "Recheese Factory",
+        "site" : "https://www.malangculinary.com/richeese-factory",
+        "openDays" : "Senin - Minggu",
+        "openHours" : "10:00 - 24:00",
+        "rating" : "4.4",
+        "description" : "Richeese Factory merupakan sebuah franchise yang menyajikan menu olahan ayam. Di Kota Malang ini merupakan outlet ke 40 dari Richeese Factory yang telah tersebar di beberapa kota besar di wilayah Jakarta, Bandung, dan Bali. Richeese Factory menyajikan olahan ayam goreng yang disajikan dengan saus babeque pedas dan saus keju. Saus pedas memiliki level kepedasan 0 - 5. Di Richeese Factory anda dapat memilih penyajian saus secara terpisah atau langsung dibalurkan diatas daging ayamnya. Anda dapat merasakan kombinasi saus barbeque dan saus keju bersamaan.",
+        "location" : "Jl. Arjuno No. 2, Malang",
+        "primaryPhoto" : "https://www.malangculinary.com/upload/img_14907257861.jpg",
+        "gallery" : [
+            {
+                "menuName" : "Combo Chicken",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_14907257863.jpg",
+                "price" : "Rp 36.500"
+            },
+            {
+                "menuName" : "Combo Fire Chicken",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_14907257864.jpg",
+                "price" : "Rp 39.500"
+            }
+        ]
+    },
+    {
+        "name" : "Sego Resek",
+        "site" : "https://www.malangculinary.com/sego-resek",
+        "openDays" : "Senin - Minggu",
+        "openHours" : "17:30 - 22:00",
+        "rating" : "4.7",
+        "description" : "Sego Resek merupakan lokasi kuliner yang menyajikan nasi goreng sebagai sajian utamanya. Berdiri sejak tahun 1959, Sego Resek menjadi salah satu kuliner malam lawas yang telah dikenal masyarakat Kota Malang. Mencampurkan bahan dalam satu wajan besar untuk puluhan porsi sekaligus dan mengaduk - aduknya secara bersamaan, bercampur aduk bagaikan sampah. Sego Resek lebih mirip nasi goreng Jawa yang tidak menggunakan saus. Terdiri dari nasi, mie, kol, tauge, dan suwiran ayam ditambahkan dengan kecap, dimasak dengan tungku arang tradisional yang menjadi ciri khasnya. Kemudian nasi goreng disajikan dengan beberapa  toping tambahan, seperti telur ayam, kepala ayam, sayap ayam, ati ampela, dan lain sebagainya.",
+        "location" : "Jl. Brigjen Katamso, Malang",
+        "primaryPhoto" : "https://www.malangculinary.com/upload/img_1591764624.jpg",
+        "gallery" : [
+            {
+                "menuName" : "Nasi Goreng Biasa",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15917646247.jpg",
+                "price" : "Rp 9.000"
+            },
+            {
+                "menuName" : "Nasi Goreng + Telur",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15917646249.jpg",
+                "price" : "Rp 11.000"
+            },
+            {
+                "menuName" : "Nasi Goreng + Sayap",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15917646248.jpg",
+                "price" : "Rp 11.500"
+            },
+            {
+                "menuName" : "Nasi Goreng + Kepala",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15917646245.jpg",
+                "price" : "Rp 12.000"
+            }
+        ]
+    },
+    {
+        "name" : "Satay Chan & Kopilogi",
+        "site" : "https://www.malangculinary.com/satay-chan-kopilogi",
+        "openDays" : "Senin - Minggu",
+        "openHours" : "15:00 - 24:00",
+        "rating" : "4.5",
+        "description" : "Satay Chan & Kopilogi merupakan lokasi kuliner yang menyajikan aneka kopi, roti bakar, dan sate taichan sebagai sajian utamanya. Sate Taichan adalah sate yang dibumbui garam dan jeruk nipis kemudian dibakar sebentar yang kemudian dinikmati dengan sambal. Sate ini sempat tenar di Jakarta beberapa waktu yang lalu. Satay Chan memiliki beberapa varian sate, antara lain sate ayam, sate usus, sate kulit, sate ampela ati, hingga sate cumi. Sate Chan, Sate Usus Ayam, dan Sate Kulit Ayam adalah varian sate yang paling populer dan banyak dipesan oleh pengunjung.",
+        "location" : "Jl. Besar Ijen No. 94, Malang",
+        "primaryPhoto" : "https://www.malangculinary.com/upload/img_15191966846.jpg",
+        "gallery" : [
+            {
+                "menuName" : "Sate Chan",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15191966848.jpg",
+                "price" : "Rp 19.000"
+            },
+            {
+                "menuName" : "Sate Usus Ayam",
+                "imgUrl" : "https://www.malangculinary.com/upload/img_15191966849.jpg",
+                "price" : "Rp 13.500"
+            }
+        ]
+    }
+]
